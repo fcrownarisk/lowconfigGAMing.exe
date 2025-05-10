@@ -22,7 +22,7 @@ void function platformString(){
     const A4 = -1
     const B4 = -1
     const C4 = -1
-    let platformString4 = "A4 * x + B4 * y + C4 * z - 1"
+    let platformString4 = "A4 * x + B4 * y + C4 * z + 1"
 
     const A5 = -1
     const B5 = 1

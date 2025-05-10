@@ -1,5 +1,12 @@
-import './ijklmnopq'
-import './XYZArray'
+declare module r{}
+declare module s{}
+declare module t{}
+declare module u{}
+declare module v{}
+declare module w{}
+declare module x{}
+declare module y{}
+declare module z{}
 void function rst(){
     for(let r = 0;r > -3;r++);
         for(let s = 0;-3 < s && s < 3;s++ || --s)

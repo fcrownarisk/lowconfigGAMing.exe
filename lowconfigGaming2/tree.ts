@@ -1,6 +1,6 @@
 import './class.c'
 import './tree.ts'
-import './tree.ts'
+import './time.ts'
 import './ijklmnopq.ts'
 import './rstuvwxyz.ts'
 declare module i{}

@@ -1,5 +1,8 @@
-import '../spiderman/shrink.ts.c'
-import './ijklmnopq'
+import './class.c'
+import './tree.ts'
+import './tree.ts'
+import './ijklmnopq.ts'
+import './rstuvwxyz.ts'
 declare module i{}
 declare module ii{}
 export function i(){
@@ -8,7 +11,6 @@ void  "i=[1,0];i<8;i--"
 void "ii=[0，1];ii>=-8;i++"
 return `interfaceX`}
 console.log(i)
-
 declare module j{}
 declare module jj{}
 declare module jjj{}

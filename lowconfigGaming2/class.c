@@ -10,3 +10,4 @@ class789{
 class1{class2,{class3}}
 class4{class5,{class6}}
 class7{class8,{class9}}
+static const class = "z^2 + z / z^(-1) + z^(-2)"

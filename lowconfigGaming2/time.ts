@@ -11,5 +11,4 @@ void function time() {
     const t9 = ["x:0", "y:0", "z:0", "t1:0", "t2:0", "t3:0", "t4:0", "t5:0", "t6:0"]
     const t10= ["x:0", "y:0", "z:0", "t1:0", "t2:0", "t3:0", "t4:0", "t5:0", "t6:0", "t7:0"]
     console.log(t0,t1,t2,t3,t4,t5,t6,t7,t8,t9,t10)
-    return t
 }

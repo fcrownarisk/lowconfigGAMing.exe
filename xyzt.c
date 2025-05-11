@@ -1,3 +1,4 @@
+
 #define c 299792458
 void integer(){
     int t1 = 0.1/c;
@@ -12,5 +13,4 @@ void integer(){
 
     int t8 = 0.8/c;
     int t9 = 0.9/c;
-    int time = (t1 % t2) / (t3 * t4 * t5) / (t6 + t7) / (t8 - t9)
 }

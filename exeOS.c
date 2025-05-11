@@ -1,4 +1,3 @@
-#include "math.h"
 
 int exe(){
     int e = 2.718281828;

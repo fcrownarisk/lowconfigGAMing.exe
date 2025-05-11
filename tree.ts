@@ -1,5 +1,5 @@
-import './rstuvwxyz'
-import './ijklmnopq'
+import './rstuvwxyz.ts'
+import './ijklmnopq.ts'
 declare module i{}
 declare module ii{}
 export function i(){

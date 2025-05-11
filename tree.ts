@@ -1,4 +1,4 @@
-import '../spiderman/shrink.ts.c'
+import './rstuvwxyz'
 import './ijklmnopq'
 declare module i{}
 declare module ii{}
